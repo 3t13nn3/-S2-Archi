@@ -1,6 +1,6 @@
 # -S2-Aritmetic-and-Logical-Unit
 
-Simple Aritmetic and Logical Unit with logicals gates, tunnels and multiplexers who could calculate two 4-bits numbers and gives a result of a 4-bit digit.
+Simple Aritmetic and Logical Unit with logicals gates, tunnels and multiplexers who can calculate two 4-bits numbers and gives a result of a 4-bit digit.
 
 ### How to use - Logisim Project
 
